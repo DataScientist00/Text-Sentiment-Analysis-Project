@@ -2,6 +2,10 @@
 
 A machine learning project that predicts whether a given text sentiment is positive or negative. This project is based on the IMDb movie reviews dataset and includes a sentiment analysis model served through a Streamlit web application.
 
+## Watch the Video 📺
+
+[![YouTube Video](https://img.shields.io/badge/YouTube-Watch%20Video-red?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/watch?v=uAz2i5CFa0c&t=674s)
+
 ---
 
 ## 🎯 Project Overview
